@@ -4,7 +4,7 @@ I am Aven! I am currently a second year computing science student based in the U
 Programming languages I know:
 - **Python**
   - I am very familiar with Python, having used it throughout my education.
-  - I have written Python for a private production project used by tens of thousands of users.
+  - I have contributed to a private Python project used by tens of thousands of users.
 - **C/C++**
   - I have been using C and C++ since 2025, becoming familiar with its core benefits and challenges, mainly pertaining to low level hardware access and memory management.
 - **Java + Kotlin**
