@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! :D
 I am Aven! I am currently a second year computing science student based in the UK. I have a strong interest in programming, and I am familiar with multiple programming languages, including Python, C/C++, and Java.
 
 Programming languages I know:
