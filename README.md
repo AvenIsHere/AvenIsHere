@@ -10,3 +10,9 @@ Programming languages I know:
 - **Java + Kotlin**
   - I have learned the core concepts of Java, and have used it and Kotlin for Android app development.
 
+Other languages I know:
+- **HTML, JS, CSS**
+  - I have a grasp of the fundamentals of web development languages.
+  - I maintain my own personal website accessable at https://avenf.com
+- English
+  - This is the language I speak! :0
