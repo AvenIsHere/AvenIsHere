@@ -1,5 +1,4 @@
 # Hello! :D
-### About me
 I am Aven! I am currently a second year computing science student based in the UK. I have a strong interest in programming, and I am familiar with multiple programming languages, including Python, C/C++, and Java.
 
 ## Languages I know:
@@ -7,8 +6,7 @@ I am Aven! I am currently a second year computing science student based in the U
 ### **Python** 🐍
   - I am very familiar with Python, having used it throughout my education.
   - I have contributed to a private custom Discord.py bot used by tens of thousands of users, making use of SQLAlchemy ORM for database access.
-    - Until the codebase for this bot becomes public, the only existing public Python repo on my profile is from my A Level NEA, for which I made a rogue-like-inspired game. ([NEA](https://github.com/AvenIsHere/NEA))
-     - This code base is very poorly written, showing just how much I have grown as a developer in only the past three years.
+    - Until the codebase for this bot becomes public, the only existing public Python repo on my profile is from my A Level NEA, for which I made a rogue-like-inspired game. ([NEA](https://github.com/AvenIsHere/NEA)). The code for this is very poorly written, and reflects my growth as a developer, having learned much about Object-Oriented Programming and best practices since.
   
 ### **C/C++** 🇨
   - I have made extensive use of C and C++, becoming familiar with its core benefits and challenges, mainly pertaining to low level hardware access and memory management.
