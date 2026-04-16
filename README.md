@@ -7,11 +7,12 @@ I am Aven! I am currently a second year computing science student based in the U
   - I am very familiar with Python, having used it throughout my education.
   - I have contributed to a private custom Discord.py bot used by tens of thousands of users, making use of SQLAlchemy ORM for database access.
     - Until the codebase for this bot becomes public, the only existing public Python repo on my profile is from my A Level NEA, for which I made a rogue-like-inspired game. ([NEA](https://github.com/AvenIsHere/NEA)). The code for this is very poorly written, and reflects my growth as a developer, having learned much about Object-Oriented Programming and best practices since.
+  - I regularly use Mypy while writing Python code in order to make my code statically typed and to prevent any type issues. I usually use the `--strict` flag.
   
 ### **C/C++** 🇨
   - I have made extensive use of C and C++, becoming familiar with its core benefits and challenges, mainly pertaining to low level hardware access and memory management.
   - C++ has very quickly become my favourite programming language, and it is my go to language for most purposes.
-    - Notable projects I have developed in C++ incldude:
+    - Notable projects I have developed in C++ include:
       - a POSIX shell ([BShell](https://github.com/AvenIsHere/BShell)), which implements GNU Readline and a PDA state machine tokeniser.
       - a wrapper for `libnotify` ([cpp-libnotify](https://github.com/AvenIsHere/cpp_libnotify)), making use of RAII and modern C++20 features to make the integration of the library into C++ projects seamless.
       - a CLI version of Wordle ([wordle-clone-cli](https://github.com/AvenIsHere/wordle-clone-cli)), which uses an API to fetch a list of words.
