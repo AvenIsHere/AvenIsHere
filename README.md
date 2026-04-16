@@ -1,7 +1,9 @@
 # Hello! :D
 I am Aven! I am currently a second year computing science student based in the UK. I have a strong interest in programming, and I am familiar with multiple programming languages, including Python, C/C++, and Java.
 
-## Languages I know:
+I have a particular interest in abstraction and how code can be used to abstract lower level workings into higher level functionality. This is particularly visible in my work with C/C++, such as my ([cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify)) wrapper library, though the key concepts influence all my programming work.
+
+## Languages & Projects
 
 ### **Python** 🐍
   - I am very familiar with Python, having used it throughout my education.
@@ -14,8 +16,9 @@ I am Aven! I am currently a second year computing science student based in the U
   - C++ has very quickly become my favourite programming language, and it is my go to language for most purposes.
     - Notable projects I have developed in C++ include:
       - a POSIX shell ([BShell](https://github.com/AvenIsHere/BShell)), which implements GNU Readline and a PDA state machine tokeniser.
-      - a wrapper for `libnotify` ([cpp-libnotify](https://github.com/AvenIsHere/cpp_libnotify)), making use of RAII and modern C++20 features to make the integration of the library into C++ projects seamless.
+      - a wrapper for `libnotify` ([cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify)), making use of RAII and modern C++20 features to make the integration of the library into C++ projects seamless.
       - a CLI version of Wordle ([wordle-clone-cli](https://github.com/AvenIsHere/wordle-clone-cli)), which uses an API to fetch a list of words.
+      - I am currently working on a rollercoaster simulation, making use of OpenGL, FreeGLUT and GLEW, as coursework for a computer graphics module at university. This repo is currently private while the coursework is still ongoing due to collusion concerns, however I will make it public once the coursework has completed.
   
 ### **Java + Kotlin** ☕
   - I have learned the core concepts of Java, during which I became familiar with Object-Oriented Programming, which I now use across all my programming projects.
@@ -24,3 +27,6 @@ I am Aven! I am currently a second year computing science student based in the U
 ### **HTML, JS, CSS** 🌐
   - I have developed with web development languages for multiple projects, making use of Node.JS and Express in several projects such as [this website about climate change](https://github.com/AvenIsHere/Web-Dev-Coursework-Semester-1).
   - I maintain my own personal website accessable at https://avenf.com ([avenwebsite](https://github.com/AvenIsHere/avenwebsite)), which also links to multiple other web development projects of mine. 
+
+## Workflow
+I use PyCharm for Python/shell development, WebStorm for web development and other JavaScript, IntelliJ for Java development, CLion for C/C++ development, and PgAdmin for Postgres work.
