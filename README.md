@@ -18,7 +18,8 @@ I have a particular interest in abstraction and how code can be used to abstract
       - a POSIX shell ([BShell](https://github.com/AvenIsHere/BShell)), which implements GNU Readline and a PDA state machine tokeniser.
       - a wrapper for `libnotify` ([cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify)), making use of RAII and modern C++20 features to make the integration of the library into C++ projects seamless.
       - a CLI version of Wordle ([wordle-clone-cli](https://github.com/AvenIsHere/wordle-clone-cli)), which uses an API to fetch a list of words.
-    - I am currently working on a rollercoaster simulation, making use of OpenGL, FreeGLUT and GLEW, as coursework for a computer graphics module at university. This repo is currently private while the coursework is still ongoing due to collusion concerns, however I will make it public once the coursework has completed.
+      - a rollercoaster simulation ([rollerocaster-sim](https://github.com/AvenIsHere/rollercoaster-sim)), making use of OpenGL, FreeGLUT and GLEW, as coursework for a computer graphics module at university.
+    - I am currently working on a C++ compiler built entirely from scratch. Currently, I have done most of the work on the tokeniser. ([CppCompiler](https://github.com/AvenIsHere/CppCompiler))
   
 ### **Java + Kotlin** ☕
   - I have learned the core concepts of Java, during which I became familiar with Object-Oriented Programming, which I now use across all my programming projects.
