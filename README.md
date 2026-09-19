@@ -8,7 +8,7 @@ I have a particular interest in abstraction and how code can be used to abstract
 ### **Python** 🐍
   - I am very familiar with Python, having used it throughout my education.
   - I have contributed to a custom Discord.py bot for the Discord server Transpeak, a transgender safe space with over twenty thousand members. The bot uses SQLAlchemy ORM for database access, and has a strict object-oriented approach. ([Fez](https://github.com/Transpeak-Discord-Server/Fez))
-  - The only Python repository on my personal account is from my A Level NEA, for which I made a rogue-like-inspired game. ([NEA](https://github.com/AvenIsHere/NEA)). The code for this was very poorly written when it was submitted for my A Level, however I have since gone back and reworked it almost entirely to make use of Object-Oriented Programming. 
+  - The only Python repository on my personal account is from my A Level NEA, for which I made a rogue-like-inspired game. The code for this was very poorly written when it was submitted for my A Level, however I have since gone back and reworked it almost entirely to make use of Object-Oriented Programming. ([NEA](https://github.com/AvenIsHere/NEA))
   - I regularly use Mypy with the strictest settings while writing Python code, which keeps my code statically typed and helps catch type issues early.
   
 ### **C/C++** 🇨
