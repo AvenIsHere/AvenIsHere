@@ -1,7 +1,7 @@
 # Hello! :D
 I am Aven! I am currently a second year computing science student based in the UK. I have a strong interest in programming, and I am familiar with multiple programming languages, including Python, C/C++, and Java.
 
-I have a particular interest in abstraction and how code can be used to abstract lower level workings into higher level functionality. This is particularly visible in my work with C/C++, such as my ([cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify)) wrapper library, though the key concepts influence all my programming work.
+I have a particular interest in abstraction and how code can be used to abstract lower level workings into higher level functionality. This is particularly visible in my work with C/C++, such as my [cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify) wrapper library, though the key concepts influence all my programming work.
 
 ## Languages & Projects
 
