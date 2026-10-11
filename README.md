@@ -1,7 +1,7 @@
 # Hello! :D
-I am Aven! I am currently a second year computing science student based in the UK. I have a strong interest in programming, and I am familiar with multiple programming languages, including Python, C/C++, and Java.
+I am Aven! I am a third year computing science student based in the UK. I have a strong interest in programming, and I am familiar with multiple programming languages, including Python, C/C++, and Java.
 
-I have a particular interest in abstraction and how code can be used to abstract lower level workings into higher level functionality. This is particularly visible in my work with C/C++, such as my [cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify) wrapper library, though the key concepts influence all my programming work.
+I have a particular interest in abstraction and how code can be used to abstract lower level workings into higher level functionality. This is especially visible in my work with C/C++, such as my [cpp_libnotify](https://github.com/AvenIsHere/cpp_libnotify) wrapper library, though the key concepts influence all my programming work.
 
 ## Languages & Projects
 
@@ -9,7 +9,7 @@ I have a particular interest in abstraction and how code can be used to abstract
   - I am very familiar with Python, having used it throughout my education.
   - I have contributed to a custom Discord.py bot for the Discord server Transpeak, a transgender safe space with over twenty thousand members. The bot uses SQLAlchemy ORM for database access, and has a strict object-oriented approach. ([Fez](https://github.com/Transpeak-Discord-Server/Fez))
   - The only Python repository on my personal account is from my A Level NEA, for which I made a rogue-like-inspired game. The code for this was very poorly written when it was submitted for my A Level, however I have since gone back and reworked it almost entirely to make use of Object-Oriented Programming. ([NEA](https://github.com/AvenIsHere/NEA))
-  - I regularly use Mypy with the strictest settings while writing Python code, which keeps my code statically typed and helps catch type issues early.
+  - I regularly use Mypy while writing Python code, which keeps my code statically typed and helps catch type issues early.
   
 ### **C/C++** 🇨
   - I have made extensive use of C and C++, becoming familiar with its core benefits and challenges, mainly pertaining to low-level hardware access and memory management.
@@ -29,4 +29,7 @@ I have a particular interest in abstraction and how code can be used to abstract
 
 ### **HTML, JS, CSS** 🌐
   - I have used web development languages for multiple projects, making use of Node.js and Express in projects such as [this website about climate change](https://github.com/AvenIsHere/Web-Dev-Coursework-Semester-1).
-  - I maintain my own personal website accessible at https://avenf.com ([avenwebsite](https://github.com/AvenIsHere/avenwebsite)), which links to multiple other web development projects of mine. 
+  - I maintain my own personal website accessible at https://avenf.com ([avenwebsite](https://github.com/AvenIsHere/avenwebsite)), which links to multiple other web development projects of mine.
+
+### **.NET, C#, & F#** 🪟
+  - I have recently been working with C# and F# for an interpreter / calculator project, with the backend made in F# and frontend made in C#. This is a group project, and I have mainly been working on the GUI using Avalonia & C#.
